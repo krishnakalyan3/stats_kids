@@ -12,4 +12,4 @@
 | Lesson 7: 16-09-2020| | Sample Problem in R
 | Lesson 8: 23-09-2020| | 24 October to 28th October Vacations
 | Lesson 9: 28-10-2020   | | Sharing google code in experience  
-| Novermber, December, January | [Google Code In](https://en.wikipedia.org/wiki/Google_Code-in) | [Youtube](https://www.youtube.com/watch?v=DV5-6s-UfUE)
+| [Novermber, December, January](https://codein.withgoogle.com/) | [Google Code In](https://en.wikipedia.org/wiki/Google_Code-in) | [Youtube](https://www.youtube.com/watch?v=DV5-6s-UfUE)

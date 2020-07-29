@@ -3,7 +3,7 @@
 | Schedule | Topics | Homework |
 | --- |---| --- |
 | Lesson 0: 29-07-2020| Introduction to RStudio / Setup | [Introduction to git](https://learn.datacamp.com/courses/introduction-to-git)
-| Lesson 1: 05-08-2020| Introduction to Github |  [Introduction to git](https://learn.datacamp.com/courses/introduction-to-git)
+| Lesson 1: 05-08-2020| Introduction to Github |  
 | Lesson 2: 12-08-2020| Introduction to Statistics |
 | Lesson 3: 19-08-2020| Working with Data |
 | Lesson 4: 26-08-2020| Data Visualization Part 1 |

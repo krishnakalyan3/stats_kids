@@ -3,7 +3,7 @@
 | Schedule | Topics | Homework |
 | --- |---| --- |
 | Lesson 0: 29-07-2020| Introduction to RStudio / Setup | [Introduction to git](https://learn.datacamp.com/courses/introduction-to-git)
-| Lesson 1: 05-08-2020| Writing Reports and working with data | [Reporting with R Markdown](https://www.datacamp.com/courses/reporting-with-r-markdown) and [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse) 
+| Lesson 1: 05-08-2020| Working with data | [Reporting with R Markdown](https://www.datacamp.com/courses/reporting-with-r-markdown) and [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse) 
 | Lesson 2: 12-08-2020| Introduction to Statistics |
 | Lesson 3: 19-08-2020| Data Visualization Part 1 |
 | Lesson 4: 26-08-2020| Data Visualization Part 2 |

@@ -1,5 +1,9 @@
 # Introduction to Git
-- Finish the steps in notes.md
-- Create a new Issue `Lab 1`
-- Add `krishnakalyan3` as a collaborator
-- Assign it to `krishnakalyan3` and add the lable completed
+- Sync Repositories in Github
+- Complete [Reporting with R Markdown](https://www.datacamp.com/courses/reporting-with-r-markdown?tap_a=5644-dce66f&tap_s=251073-07cc7e)
+- Data Visualization Good, Bad, Ugly
+- Introduction to Tidy Data
+- Exercises
+
+References
+- https://github.com/ikashnitsky/dataviz-mpidr

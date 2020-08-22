@@ -2,7 +2,7 @@
 | --- |---| --- |
 | Lesson 0: 29-07-2020| Introduction to RStudio / Setup | [Introduction to git](https://learn.datacamp.com/courses/introduction-to-git)
 | Lesson 1: 15-08-2020| Working with data | Extra: Datacamp [RMarkdown](https://www.datacamp.com/courses/reporting-with-r-markdown?tap_a=5644-dce66f&tap_s=251073-07cc7e), [Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
-| Lesson 2: 22-08-2020| Data Visualization Part 1 |
+| Lesson 2: 22-08-2020| Anasysis of the Titanic Dataset |
 | Lesson 4: 26-08-2020| Data Visualization Part 2 |
 | Lesson 5: 02-09-2020| Data Visualization Part 3 |
 | Lesson 6: 09-09-2020| Computer Vision |

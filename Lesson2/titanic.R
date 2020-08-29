@@ -6,12 +6,14 @@ library(randomForest)
 # data
 train <- read_csv('/Users/kkalyan/github/stats_kids/Lesson2/data/train.csv')
 
+
 summary(train)
 glimpse(train)
 View(train)
 
 train$Sex <- factor(train$Sex)
 train$Survived <- factor(train$Survived)
+table(train$Survived)
 # What is the AIM?s
 
 # Missing Values
@@ -24,6 +26,7 @@ set.seed(123)
 rf_model <- randomForest(Survived ~ Fare + Sex + SibSp, data = train)
 
 survived_pred <- predict(rf_model, train)
+train$predictions <- survived_pred
 summary(rf_model)
 d <- table(train$Survived, survived_pred)
 sum(diag(d))/sum(d)
@@ -37,6 +40,10 @@ varImportance <- data.frame(Variables = row.names(importance),
 
 rankImportance <- varImportance %>%
   mutate(Rank = dense_rank(desc(Importance)))  %>% arrange(Rank)
+
+# Siblings
+train%>% filter(SibSp >5)
+train %>% filter(PassengerId == 160)
 
 # Explain the importance of validation set
 # Overfitting

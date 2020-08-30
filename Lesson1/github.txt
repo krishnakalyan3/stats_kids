@@ -1,6 +1,6 @@
-git clone https://github.com/niyatikarthik/stats_kids 
+git clone https://github.com/niyatikarthik/stats_kids
 cd stats_kids
-git remote add upstream https://github.com/krishnakalyan3/stats 
+git remote add upstream https://github.com/krishnakalyan3/stats_kids
 git fetch --all 
 git merge upstream/master 
 git push origin master 

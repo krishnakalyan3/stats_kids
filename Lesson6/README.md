@@ -32,4 +32,12 @@ book:
 # Check out visual mode
 # Complete as many questions as you can
 # Export PDF
+
+# Extra Points
+quarto render
+
+
 ```
+
+[Example](https://quarto.org/docs/get-started/hello/rstudio.html)
+[Working Doc](https://krishnakalyan3.github.io/analyticsedge-book/)

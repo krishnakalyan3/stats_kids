@@ -1,0 +1,18 @@
+# Preface {.unnumbered}
+
+There are two main types of crimes: violent crimes, and property crimes. In this problem, we'll focus on one specific type of property crime, called "motor vehicle theft" (sometimes referred to as grand theft auto). This is the act of stealing, or attempting to steal, a car. In this problem, we'll use some basic data analysis in R to understand the motor vehicle thefts in Chicago.
+
+You can download the dataset from [here](https://courses.edx.org/assets/courseware/v1/96f9b8f751467da3a4b8a5be33e32905/asset-v1:MITx+15.071x+2T2020+type@asset+block/mvtWeek1.csv)
+
+1.  How many rows of data (observations) are in this dataset?
+
+```{r}
+gta <- read.csv2("mvtWeek1.csv", sep=",")
+dim(gta)
+```
+
+2.  How many variables are in this dataset?
+
+```{r}
+ncol(gta)
+```

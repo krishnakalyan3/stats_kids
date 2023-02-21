@@ -6,4 +6,14 @@
 | Lesson 3: 18-10-2022| Introduction to R | - 
 | Lesson 4: 01-11-2022| Blogging with Quarto | Write a new blog post
 | Lesson 5: 08-11-2022| Blog Post on Public Private Key + GA | 
-| Lesson 6: 07-02-2022| quarto book
+| Lesson 6: 07-02-2023| quarto book
+| Lesson 7: 21-02-2023| 
+
+
+Pre-Requisites:
+- [ ] [Github Account](github.com)
+- [ ] [Twitter Account](https://twitter.com/)
+- [ ] [Linkedin Account](https://www.linkedin.com/)
+- [ ] [RStudio Account](https://rstudio.cloud/)
+- [ ] [Kaggle Account](https://www.kaggle.com/)
+- [ ] [Repelit Account](https://replit.com/)

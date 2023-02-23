@@ -7,7 +7,7 @@
 | Lesson 4: 01-11-2022| Blogging with Quarto | Write a new blog post
 | Lesson 5: 08-11-2022| Blog Post on Public Private Key + GA | 
 | Lesson 6: 07-02-2023| quarto book
-| Lesson 7: 21-02-2023| 
+| Lesson 7: 21-02-2023| Replit
 
 
 Pre-Requisites:

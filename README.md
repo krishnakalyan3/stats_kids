@@ -8,6 +8,11 @@
 | Lesson 5: 08-11-2022| Blog Post on Public Private Key + GA | 
 | Lesson 6: 07-02-2023| quarto book
 | Lesson 7: 21-02-2023| Replit
+| Lesson 8: 20-03-2023| Anaconda Environment
+| Lesson 9: - | CLIP 
+| Lesson 10: - | Streamlit
+| Lesson 11: - | Image Search with CLIP
+| Lesson 12: - | Interpolation
 
 
 Pre-Requisites:
